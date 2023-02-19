@@ -1,0 +1,16 @@
+body {
+  background-color: #282c34;
+  text-align: center;
+}
+.react-app-container {
+  border: 1px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+.app {
+  border: 1px solid rgb(137, 117, 192);
+  color: white;
+  max-width: 600px;
+  padding: 20px;
+  margin: 20px auto;
+}
